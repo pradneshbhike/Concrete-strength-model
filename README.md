@@ -17,5 +17,5 @@ The predictors in the data of concrete strength include:
 4).Water
 5).Superplasticizer
 6).Coarse Aggregate
-7).Fine Aggregate
+7).Fine Aggregate.
 The target in the data is 'Strength'.
