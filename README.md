@@ -1,4 +1,4 @@
-Concrete Strength Estimator Regression model using Keras.
+# Concrete Strength Estimator Regression model using Keras.
 In this project, I have built a regression model using the deep learning Keras library, and then I experimented that with increasing the number of training epochs and changing number of hidden layers and I made observations of how changing these parameters impacted the performance of the model. A regression model using the Keras library to model the concrete compressive strength data.
 
 Project is divided in 4 sections (A, B, C, D as mentioned below).
